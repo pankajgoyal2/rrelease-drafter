@@ -4,6 +4,7 @@ template: |
   # What's Changed
 
   $CHANGES
+  $PREVIOUS_TAG
 
 categories:
   - title: 'Bug fix'
